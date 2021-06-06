@@ -1,2 +1,3 @@
-# alerta-stock-retail
-Extensión para navegador desarrollada en Svelte para obtener alertas de stock en retail.
+# Alerta Stock Retail
+
+Extensión para navegador desarrollada en Svelte que permite generar alertas cuando un producto vuelve a estar en stock.
