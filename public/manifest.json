@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Alerta Stock Retail",
+  "description": "Extensión que permite poner alarmas cuando un producto tiene stock.",
+  "version": "0.0.1",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "cookies",
+    "scripting",
+    "tabs",
+    "declarativeContent"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_title": "Abrir Alerta Stock Retail",
+    "default_popup": "index.html"
+  }
+}
